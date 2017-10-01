@@ -1,0 +1,19 @@
+{
+  "name": "js-project-template",
+  "version": "1.0.0",
+  "description": "js project template",
+  "main": "src/entry.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "iaustin",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3",
+    "webpack": "^3.6.0"
+  }
+}
