@@ -4,7 +4,8 @@
   "description": "js project template",
   "main": "src/entry.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "webpack": "webpack -w"
   },
   "author": "iaustin",
   "license": "ISC",
