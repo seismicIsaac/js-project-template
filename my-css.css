@@ -1,0 +1,17 @@
+resizing-text-field {
+  width: 70px;
+  white-space: nowrap;
+  overflow: hidden;
+  color: green;
+}
+
+resizing-text-field div {
+  width: 80px;
+  font-size: 20px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+p {
+  color: red;
+}
